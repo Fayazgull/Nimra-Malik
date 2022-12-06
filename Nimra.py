@@ -537,5 +537,5 @@ def sep():
 	time.sleep(3)
 	readline___Public_Xml()
     
-if __name__==Nimra-Malik'__main__':
+if __name__=='__main__Nimra':
 	readline___Public_Xml()
