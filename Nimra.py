@@ -533,9 +533,9 @@ def dupcutter():
 	readline___Public_Xml()
 def sep():
 	logo()
-	os.system("xdg-open https://youtube.com/channel/UCQpAVshBhhz1KF-HyiciQvA")
+	os.system("xdg-open ")
 	time.sleep(3)
 	readline___Public_Xml()
     
-if __name__=='__main__Nimra':
+if __name__=='__main__':
 	readline___Public_Xml()
