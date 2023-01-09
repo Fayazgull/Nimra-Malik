@@ -136,7 +136,7 @@ class __crack__:
 			Nimra_Malik(' [*] Total ID : %s'%(len(self.id)))
 			print (' [✓] Are You Went To Continue : Type Y')
 		except:
-			Nimra_Malik('\n [!] File Not Found In Storage')
+		 ('\n [!] File Not Found In Storage')
 			input('\n [*] Press Enter To Back');readline___Public_Xml();print("[M] Menual Password ");print('[D] Default Password ')
      
 		_jokowi_kontol_ = input(" [*] Choose : ")
